@@ -11,15 +11,17 @@ public class Jogos {
     private String title;
     private String link;
     private int ranking;
+    private String image;
 
     public Jogos() {
 
     }
 
-    public Jogos(String title, String link, int ranking) {
+    public Jogos(String title, String link, int ranking, String image) {
         this.title = title;
         this.link = link;
         this.ranking = ranking;
+        this.image = image;
     }
 
     public void setTitle(String title) {
@@ -34,6 +36,10 @@ public class Jogos {
         this.ranking = ranking;
     }
 
+    public void setImage(String image) {
+        this.image = image;
+    }
+
     public String getId() {
         return id;
     }
@@ -46,6 +52,9 @@ public class Jogos {
     }
     public int getRanking() {
         return ranking;
+    }
+    public String getImage() {
+        return image;
     }
 
 
