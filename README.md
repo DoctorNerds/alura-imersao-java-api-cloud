@@ -1,4 +1,4 @@
-# :school: Imersão Alura em Java - Criando Stickers
+# :school: Imersão Alura em Java - Criando uma API
 
 Este foi o meu primeiro projeto em **Java**, no primeiro contato com a linguagem, aprendido durante a imersão feita entre os dias 18 e 22/julho de 2022 pelos instrutores Jacqueline Oliveira, Alexandre Aquiles e Paulo Silveira, da [Alura](https://www.alura.com.br/).
 
