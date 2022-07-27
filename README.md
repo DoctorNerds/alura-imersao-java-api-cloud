@@ -26,4 +26,7 @@ Segue imagens do arquivo JSON gerados localmente e também na nuvem através do 
 - JSON (Java Script Object Notation): é uma forma de notação **Java Script** muito utilizada para representar banco de dados e comum para diversas linguagens. Existem algumas regras que caracterizam um arquivo JSON, como: não pode ter funções, não pode ter comentários, todo texto tem aspas duplas e as propriedades sempre tem aspas duplas também.
 
 ### :arrow_forward: Rodando o Projeto
-- ESCREVA AQUJIII!!!!
+- Primeiro você deve fazer o download das pastas do projeto através do Git ou do arquivo ZIP.
+- Em seguida você poderá utilizar uma IDE, como o Visual Studio Code, para abrir a pasta do projeto.
+- Para rodar o projeto e gerar os stickers, você deve compilar o arquivo ``JogosApiApplication.java`` e verificar o arquivo JSON ``http://localhost:8080/jogos``.
+- Caso queira acessar o JSON através da API compartilhada na nuvem pelo [Heroku](https://dashboard.heroku.com/apps) é necessário acessar o site do programa, criar uma conta (gratuita) e seguir os passos de deploy (instruídos no site), através de um terminal, para acessar este serviço, além de alterar o arquivo ``aplication.properties`` na pasta ``resources`` para inserir a sua URL com senha (instruido no próprio site do Heroku também).
