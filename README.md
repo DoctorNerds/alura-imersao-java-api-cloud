@@ -4,7 +4,7 @@ Este foi o meu primeiro projeto em **Java**, no primeiro contato com a linguagem
 
 ## :notebook_with_decorative_cover: Projeto
 
-O objetivo é criar uma API pessoal através do banco de dados global MongoDB Atlas e compartilhada na nuvem através do Heroku.
+O objetivo é criar uma API através do banco de dados global MongoDB Atlas e compartilhar na nuvem através do Heroku.
 
 ## :open_file_folder: Resultado do projeto
 
